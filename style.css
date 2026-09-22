@@ -69,4 +69,8 @@ button:hover {
     100% {
         transform: scale(1);
     }
+    #surprise {
+    display: none;
+    margin-top: 40px;
+}
 }
